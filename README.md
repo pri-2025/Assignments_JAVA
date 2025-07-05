@@ -3,7 +3,7 @@
 This repository contains all the Java assignments completed during Semester 2 of my Computer Science program. Each assignment simulates real-world scenarios using Core Java concepts such as object-oriented programming, inheritance, interfaces, exception handling, collections, and data structures.
 
 ---
-### 1️ MyDate Class
+### 1️) MyDate Class
 - **Concepts**: Class, Object Creation, Constructor
 - **Description**:  
   A simple class to manage and display dates. The program creates five date objects and prints them.
@@ -14,7 +14,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 2️ Word and Character Counter
+### 2️) Word and Character Counter
 - **Concepts**: String Manipulation, User Input
 - **Description**:  
   A Java program that counts the number of words and characters (excluding spaces) in a user-provided sentence.
@@ -25,7 +25,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 3️ Circle Comparison
+### 3️) Circle Comparison
 - **Concepts**: Parameterized Constructor, Object Comparison
 - **Description**:  
   A program to create two Circle objects, calculate their area and perimeter, and compare them to find which one is larger.
@@ -37,7 +37,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 4️ Traffic Light Simulation
+### 4️) Traffic Light Simulation
 - **Concepts**: Parameterized Constructor, State Change
 - **Description**:  
   Simulates a real-life traffic light with states like Red, Yellow, and Green. The user can manually change colors.
@@ -48,7 +48,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 5️ Complex Number Arithmetic
+### 5️) Complex Number Arithmetic
 - **Concepts**: Polymorphism, Pass-by-Reference
 - **Description**:  
   A class to handle arithmetic operations on complex numbers using object references.
@@ -59,7 +59,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 6️ Student Result Database
+### 6️) Student Result Database
 - **Concepts**: Array of Objects, ArrayList, Grade Calculation
 - **Description**:  
   Creates a student database where details like marks are entered, grades are calculated, and best performers are listed.
@@ -71,7 +71,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 7️ Library Management System
+### 7️) Library Management System
 - **Concepts**: ArrayList, CRUD Operations
 - **Description**:  
   Simulates a Library system using an ArrayList of books. It allows users to:
@@ -84,7 +84,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 8️ Sports Inheritance Program
+### 8️) Sports Inheritance Program
 - **Concepts**: Inheritance, Method Overriding
 - **Description**:  
   Demonstrates the use of inheritance by creating a base class `Sports` and subclasses like `Cricket`, `Football`, and `Tennis`.
@@ -95,7 +95,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 9️ Employee Database System
+### 9️) Employee Database System
 - **Concepts**: Inheritance, Salary Computation
 - **Description**:  
   A program that manages employee records and performs salary-related calculations.
@@ -107,7 +107,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 1️0 Shape Interface Program
+### 1️0) Shape Interface Program
 - **Concepts**: Interface, Abstraction, Implementation
 - **Description**:  
   A program that defines a `Shape` interface with a `getArea()` method. Multiple classes implement this interface:
@@ -117,7 +117,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 1️1️ A. Simple Calculator
+### 1️1️) A. Simple Calculator
 - **Concepts**: Exception Handling, Switch Case
 - **Description**:  
   A menu-driven calculator that performs basic arithmetic operations (+, -, *, /, %) and handles exceptions.
@@ -128,7 +128,7 @@ This repository contains all the Java assignments completed during Semester 2 of
 
 ---
 
-### 1️1️ B. Custom Exception for Odd Number
+### 1️1️) B. Custom Exception for Odd Number
 - **Concepts**: Custom Exception, Exception Throwing
 - **Description**:  
   Demonstrates user-defined exception handling. If an odd number is passed to a method, a custom exception is thrown.
